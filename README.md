@@ -1,14 +1,19 @@
 # README
 
 ## About
-A theme made originally from Default Solarized Dark color theme, with less borders and a flatter look.
+
+A theme based on the Default Solarized Dark color theme, but with less borders and a flatter look. See the screenshots for an impression.
 
 ## Sceenshots
 
 You can compare the original vs the flatter version here.
 
-![original](images/solarized-original.png)
+**Original dark theme**
+
+![Original dark theme](images/solarized-dark.png)
 
 vs
 
-![flat](images/solarized-flat.png)
+**Flat theme**
+
+![Flat](images/solarized-flat.png)
