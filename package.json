@@ -1,0 +1,27 @@
+{
+    "name": "theme-solarized-flat-dark",
+    "displayName": "Solarized Flat",
+    "description": "Flatter Solarized theme based on the built-in Solarized Dark Theme.",
+    "version": "0.0.1",
+    "publisher": "rmnl",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "homepage": "https://github.com/rmnl/vscode-theme-solarized-flat/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rmnl/vscode-theme-solarized-flat.git"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized Flat",
+                "uiTheme": "vs-dark",
+                "path": "./themes/solarized-flat.json"
+            }
+        ]
+    }
+}
