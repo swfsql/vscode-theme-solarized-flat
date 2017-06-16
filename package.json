@@ -4,6 +4,7 @@
     "description": "Flatter Solarized theme based on the built-in Solarized Dark Theme.",
     "version": "0.0.1",
     "publisher": "rmnl",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.5.0"
     },
