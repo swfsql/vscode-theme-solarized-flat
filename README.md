@@ -17,3 +17,7 @@ vs
 **Flat theme**
 
 ![Flat](images/solarized-flat.png)
+
+## Support
+
+Questions, requests or Issues? Look at the [GitHub Issues for this theme](https://github.com/rmnl/vscode-theme-solarized-flat/issues).
