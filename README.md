@@ -2,4 +2,4 @@
 
 ## About
 
-A theme based on a flat Solarized Dark theme, butonly using the 16-color pallete.
+A 16-color pallete theme based on a flat Solarized Dark theme.

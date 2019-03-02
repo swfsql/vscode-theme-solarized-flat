@@ -1,7 +1,7 @@
 {
-    "name": "theme-solarized-flat-dark-16",
-    "displayName": "Solarized Flat 16",
-    "description": "16-color Flatter Solarized theme based on the built-in Solarized Dark Theme.",
+    "name": "theme-dark-brown-16",
+    "displayName": "Dark Brown 16",
+    "description": "16-color based on Flatter Solarized theme.",
     "version": "0.0.1",
     "publisher": "swfsql",
     "icon": "images/icon.png",
@@ -19,9 +19,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Solarized Flat 16",
+                "label": "Dark Brown 16",
                 "uiTheme": "vs-dark",
-                "path": "./themes/solarized-flat-16.json"
+                "path": "./themes/dark-brown-16.json"
             }
         ]
     }
