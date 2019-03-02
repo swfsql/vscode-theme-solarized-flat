@@ -1,9 +1,9 @@
 {
-    "name": "theme-solarized-flat-dark",
-    "displayName": "Solarized Flat",
-    "description": "Flatter Solarized theme based on the built-in Solarized Dark Theme.",
+    "name": "theme-solarized-flat-dark-16",
+    "displayName": "Solarized Flat 16",
+    "description": "16-color Flatter Solarized theme based on the built-in Solarized Dark Theme.",
     "version": "0.0.1",
-    "publisher": "rmnl",
+    "publisher": "swfsql",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.5.0"
@@ -11,17 +11,17 @@
     "categories": [
         "Themes"
     ],
-    "homepage": "https://github.com/rmnl/vscode-theme-solarized-flat/blob/master/README.md",
+    "homepage": "https://github.com/swfsql/vscode-theme-solarized-flat/blob/master/README.md",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/rmnl/vscode-theme-solarized-flat.git"
+		"url": "https://github.com/swfsql/vscode-theme-solarized-flat.git"
 	},
     "contributes": {
         "themes": [
             {
-                "label": "Solarized Flat",
+                "label": "Solarized Flat 16",
                 "uiTheme": "vs-dark",
-                "path": "./themes/solarized-flat.json"
+                "path": "./themes/solarized-flat-16.json"
             }
         ]
     }
