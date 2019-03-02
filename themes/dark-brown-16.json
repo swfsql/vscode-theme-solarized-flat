@@ -299,7 +299,7 @@
 		// "contrastActiveBorder": "",
 		// "contrastBorder": "",
 
-		// "widget.shadow": "",
+		// "widget.shadow": "#FF0000",
 
 		"selection.background": "#2A988f89",
 
@@ -336,10 +336,10 @@
 		"list.dropBackground": "#00706968",
 		"list.highlightForeground": "#a89c94",
 
-        "scrollbarSlider.background": "#242729",
+        "scrollbarSlider.background": "#2c3236",
         "scrollbarSlider.activeBackground": "#2c3236",
         "scrollbarSlider.hoverBackground": "#2c3236",
-        "scrollbar.shadow": "#2c3236",
+        "scrollbar.shadow": "#00000000",
 
 		// Editor
 		"editor.background": "#242729",
@@ -409,11 +409,11 @@
 		"editorGroupHeader.tabsBackground": "#2c3236",
 
 		// Workbench: Tabs
-		"tab.activeForeground": "#ede7df",
-		"tab.activeBackground": "#706968",
+		"tab.activeForeground": "#988f89",
+		"tab.activeBackground": "#242729",
 		"tab.inactiveForeground": "#a89c94",
 		"tab.inactiveBackground": "#2c3236",
-		"tab.border": "#7d7574",
+		"tab.border": "#242729",
 
 		// Workbench: Activity Bar
 		"activityBar.background": "#2c3236",
